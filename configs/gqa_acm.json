@@ -1,0 +1,10 @@
+{
+  "dataset": "GQA",
+  "strategy": "acm",
+  "seed": 9595,
+  "epochs": 4,
+  "batch_size": 32,
+  "lr": 1e-5,
+  "grid": 7,
+  "region_mask_prob": 0.6
+}

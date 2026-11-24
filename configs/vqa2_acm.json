@@ -1,0 +1,11 @@
+{
+  "dataset": "VQA v2",
+  "strategy": "acm",
+  "seed": 9595,
+  "epochs": 4,
+  "batch_size": 32,
+  "lr": 5e-5,
+  "grid": 7,
+  "region_mask_prob": 0.6,
+  "train_splits": ["train", "nominival"]
+}
